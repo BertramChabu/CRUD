@@ -1,4 +1,5 @@
 # CRUD Application - Tire, Oil, and Spark Plug Inventory
+![alt text](image.png)
 
 ## Overview
 This project is a simple CRUD (Create, Read, Update, Delete) application built using PHP and MySQL. The system allows users to add, view, update, and delete inventory records for tires, oil, and spark plugs.
